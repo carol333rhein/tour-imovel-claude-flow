@@ -7,7 +7,7 @@ Transforme as fotos de um imóvel em um vídeo de tour, usando o chat do Claude 
 **Passo 1. No Claude**
 1. Abra o chat do Claude (claude.ai).
 2. Anexe as fotos do imóvel (até 7 fotos).
-3. Cole o texto do arquivo [`TEXTO-PARA-O-CLAUDE.md`](TEXTO-PARA-O-CLAUDE.md) e envie.
+3. Cole o texto do arquivo [`Tour-do-imovel-claude.md`](Tour-do-imovel-claude.md) e envie.
 4. O Claude lê cada cômodo e devolve o texto que você vai usar no Flow. Copie esse texto.
 
 **Passo 2. No Google Flow**
@@ -22,8 +22,8 @@ Transforme as fotos de um imóvel em um vídeo de tour, usando o chat do Claude 
 Clique em gerar e aguarde. O tour do imóvel fica pronto em poucos minutos.
 
 ## Arquivos
-- [`TEXTO-PARA-O-CLAUDE.md`](TEXTO-PARA-O-CLAUDE.md): o texto para copiar e colar no chat.
-- [`texto-claude-tour-do-imovel.pdf`](texto-claude-tour-do-imovel.pdf): o mesmo texto em PDF.
+- [`Tour-do-imovel-claude.md`](Tour-do-imovel-claude.md): o texto para copiar e colar no chat.
+- [`Tour-do-imovel-claude.pdf`](Tour-do-imovel-claude.pdf): o mesmo texto em PDF.
 
 ## Observações
 - O Flow usa créditos da sua assinatura a cada vídeo gerado.
